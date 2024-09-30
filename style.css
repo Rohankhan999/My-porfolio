@@ -40,16 +40,16 @@ nav ul li a:hover {
     font-size: 1.04rem;
 }
 
-.left {
+#left {
     font-size: 1.3rem;
 }
 
-.firstsection>div {
+#firstsection>div {
     width: 30%;
     margin: 30px 0;
 }
 
-.firstsection {
+#firstsection {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -62,7 +62,7 @@ nav ul li a:hover {
 }
 
 .rightsection img {
-   height: ;
+   
     width: 80%;
 }
 
@@ -71,4 +71,15 @@ nav ul li a:hover {
 }
 #element{
     color: rgb(157, 88, 223);
+}
+button{
+    margin-top: 40px;
+    background-color: rgb(157, 88, 223);
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    color:whitesmoke;
+    font-weight: 600;
+    letter-spacing: 1px;
+    
 }
