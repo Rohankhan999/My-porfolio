@@ -1,0 +1,21 @@
+body {
+    width: auto;
+    height: auto;
+    background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+}
+header{
+    display: flex;
+    width:100%;
+    background-color: green;
+    
+}
+ul li{
+    list-style:none;
+    float: left;
+    background-color: RED;
+}
+.navigation{
+    margin-left: 600px;
+ margin-top: 15px;
+   
+}
